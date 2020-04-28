@@ -2,7 +2,17 @@ body {
     margin: 0;
     height: 100%
 }
-  
+
+@font-face {
+    font-family:agency fb bold;
+    font-style:normal;
+    font-weight:700;
+    src:local('Agency FB Bold'),
+    local('AgencyFB-Bold'),
+    url(Font/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.woff) format('woff'),
+    url(Font/agency-fb-bold_cee84847c4ab16cf2b0952d063712724.ttf) format('truetype')
+}
+
 /* Header/Logo Title */
 .header {
     padding: 60px;
