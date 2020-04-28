@@ -191,3 +191,20 @@ background-color: #A10702;
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.subcontact {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 500px;
+    background-color: #FFF1D0;
+    text-align: left;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
