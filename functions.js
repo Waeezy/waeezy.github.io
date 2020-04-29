@@ -33,6 +33,9 @@ function openlink(num) {
   if (num ==6){
     window.open('https://github.com/Waeezy/CyberSecurity-HMM', '_blank');
   }
+  if (num =7){
+    window.open('https://github.com/DerekRoy/CMPT419-726FinalAssignment', '_blank');
+  }
 }
 
 var slideIndex = 1;
