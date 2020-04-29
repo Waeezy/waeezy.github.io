@@ -30,6 +30,9 @@ function openlink(num) {
   if (num == 5){
     window.open('https://github.com/AlecGrover/Commandline-Sweeper', '_blank');
   }
+  if (num ==6){
+    window.open('https://github.com/Waeezy/CyberSecurity-HMM', '_blank');
+  }
 }
 
 var slideIndex = 1;
