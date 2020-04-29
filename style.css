@@ -80,6 +80,7 @@ body {
     cursor: pointer;
     border-radius: 40px;
     text-decoration: none;
+    font-size: 2vw;
 }
 
 .project:hover {
@@ -206,8 +207,8 @@ body {
 }
 
 .icon {
-    width: 50px;
-    height: 50px;
+    width: 6%;
+    height: 6%;
     float: center;
     vertical-align:middle
 }
@@ -235,4 +236,36 @@ html {
   
 #myBtn:hover {
 background-color: #A10702;
+}
+
+[data-component="slideshow"] .slide {
+    display: none;
+    text-align: left;
+    margin-left: 30%;
+}
+
+[data-component="slideshow"] .slide.active {
+    display: block;
+    text-align: left;
+    margin-left: 30%;
+}
+
+.slide_image {
+    width: 80%;
+    height: 75%;
+    border-radius: 40px;
+    border-style: solid;
+    border-color:#32373B;
+    border-width: 10%;
+}
+
+.left_section {
+    width: 30%; 
+    float: left;
+}
+
+.right_section {
+    width: 70%; 
+    float: right;
+    text-align: left;
 }
