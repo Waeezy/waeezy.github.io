@@ -260,12 +260,18 @@ background-color: #A10702;
 }
 
 .left_section {
-    width: 30%; 
     float: left;
 }
 
 .right_section {
-    width: 70%; 
     float: right;
     text-align: left;
+}
+
+.source {
+    text-decoration: none;
+}
+
+.source:hover {
+    text-decoration: underline;
 }

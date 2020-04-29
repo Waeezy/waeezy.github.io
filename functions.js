@@ -24,6 +24,12 @@ function openlink(num) {
   if (num == 3){
     window.open('https://www.linkedin.com/in/wael-yakoub-agha-12a426158/', '_blank');
   }
+  if (num == 4){
+    window.open('https://github.com/Waeezy/Sudoku_Vocabulary_Game', '_blank');
+  }
+  if (num == 5){
+    window.open('https://github.com/AlecGrover/Commandline-Sweeper', '_blank');
+  }
 }
 
 var slideIndex = 1;
