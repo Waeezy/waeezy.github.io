@@ -34,7 +34,7 @@ body {
     font-size: 2.5vw;
     background: #1282A2;
     color: #FEFCFB;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -51,7 +51,7 @@ body {
     color: #D80032;
     font-size: 30px;
     font-family: 'Agency FB Bold';
-    height: 1250px;
+    height: 175vh;
     /* background-image: url('images/back1.png'); */
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,7 +63,7 @@ body {
     background: #340068;
     color: #FFD23F;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
     background-image: url('images/back2.png');
     background-repeat: no-repeat;
@@ -92,8 +92,8 @@ body {
     text-align: center;
     background: #FFF1D0;
     color: #DD1C1A;
-    font-size: 30px;
-    height: 500px;
+    font-size: 2vw;
+    height: 88vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -103,7 +103,7 @@ body {
     background: #03CEA4;
     color: #E40066;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -115,7 +115,7 @@ body {
     background-size: cover;
     color: #345995;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -125,7 +125,7 @@ body {
     background: #FFFCF9;
     color: #FF6978;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -135,7 +135,7 @@ body {
     background: #66D7D1;
     color: #FC7753;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
@@ -145,17 +145,14 @@ body {
     background: black;
     color: #31E981;
     font-size: 30px;
-    height: 600px;
+    height: 100vh;
     font-family: 'Agency FB Bold';
 }
 
 .subcontact {
-    /* margin-top: 5%;
-    margin-bottom: 5%; */
-    /* margin-right: 20%; */
     margin-left: 35%;
-    background-color: #FFF1D0;
     text-align: left;
+    font-size: 2vw;
 }
 
 .link {
@@ -201,8 +198,8 @@ body {
 
 .profile {
     text-align: center;
-    width: 13%;
-    height: 14%;
+    width: 12vw;
+    /* height: 12vh; */
     float: center;
 }
 
